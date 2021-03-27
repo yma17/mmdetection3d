@@ -1,5 +1,4 @@
 from setuptools import find_packages, setup
-
 import os
 import torch
 from torch.utils.cpp_extension import (BuildExtension, CppExtension,
